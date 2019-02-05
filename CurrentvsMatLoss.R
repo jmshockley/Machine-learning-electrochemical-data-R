@@ -1,3 +1,5 @@
+#This code was used to perform supervised machine learning (lasso and ridge regressions) to predict the electrochemical response to sliding in AFM experiments from the following factors: major alloying elements (Cr, Mo, Ni), height changes frame-to-frame
+
 setwd("C:\\users\\jmshockley\\Work Folders\\Documents\\AFM\\2017-03-09 2507 I13\\2017-03-09 2507_gridded\\10V 1-7\\10V 1-7 Height Movie Gwyddion")
 
 library(tidyverse)
